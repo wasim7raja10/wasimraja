@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-letsdoit-staging-133854-authRole",
+      "UnauthRoleArn": "arn:aws:iam::692646877955:role/amplify-letsdoit-staging-133854-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::692646877955:role/amplify-letsdoit-staging-133854-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-letsdoit-staging-133854-deployment",
+      "UnauthRoleName": "amplify-letsdoit-staging-133854-unauthRole",
+      "StackName": "amplify-letsdoit-staging-133854",
+      "StackId": "arn:aws:cloudformation:ap-south-1:692646877955:stack/amplify-letsdoit-staging-133854/55300cf0-70b4-11ed-b913-0aa940bcb8c2",
+      "AmplifyAppId": "d4eqa01i5rldl"
+    }
+  }
+}
